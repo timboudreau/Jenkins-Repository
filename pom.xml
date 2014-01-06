@@ -3,14 +3,14 @@
     <parent>
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
-        <version>1.534</version>
+        <version>1.545</version>
     </parent>
 
     <groupId>com.nirima.jenkins.repository</groupId>
     <artifactId>pom</artifactId>
     <name>Jenkins Maven Repository Server : Project POM</name>
 
-    <version>0.12-SNAPSHOT</version>
+    <version>0.13-timboudreau</version>
     <packaging>pom</packaging>
 
     <developers>
